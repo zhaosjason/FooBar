@@ -1,2 +1,2 @@
 # FooBar
-Google's Foo Bar Challenge
+Repo for my solutions in java
