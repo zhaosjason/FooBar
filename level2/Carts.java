@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Answer {
+public class Carts {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         String[] input = in.nextLine().split(",");
@@ -29,14 +29,3 @@ public class Answer {
 }
 
 
-/*
-
-15,7,2,3,5,9,0,0,1   => 42%9 = 42 - 36 = 6  => 3
-                        42%8 = 2  => 7
-                        42%7 = 0  => 9
-5 ,5,2,5,5,5,5,5,5   => 8
-
-
-10,7,2,3,5,9,2,2,2
-
-*/
